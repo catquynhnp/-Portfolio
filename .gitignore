@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Raw/Temp assets
+assets/images/*_raw.png
+assets/images/*_test.png
+
+# OS metadata
+.DS_Store
+Thumbs.db
